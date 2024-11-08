@@ -1,12 +1,6 @@
 # 👋 Hi!! I'm Matheus Bessa!
 
--💻 I'm a Computer Science student at the Cruzeiro do Sul University in São Paulo, Brazil.
-
--✏️ I'm currently learning about Data Science and Machine Learning.
-
--💬 Ask me about anything!
-
-
+I'm a data scientist, and I'm passionate about solving problems and learning new things.
 
 <br>
 
@@ -20,8 +14,6 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code)&nbsp;
 
 <br>
 
